@@ -40,6 +40,8 @@ This project was made using the follow technologies:
   <li><a href="https://reactnative.dev/">React Native</a></li>
   <li><a href="https://expo.io/">Expo</a></li>
   <li><a href="https://expressjs.com/en/api.html#express">Express</a></li>
+  <li><a href="http://knexjs.org/">Knex</a></li>
+  <li><a href="https://www.sqlite.org">SQLite</a></li>
 </ul>
 
 # 🚀 Features
